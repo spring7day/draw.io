@@ -28,18 +28,37 @@
           <mxGeometry x="40" y="245" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqP3VXR3p34NOf_3NFYB-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="590" y="50" width="630" height="440" as="geometry" />
+          <mxGeometry x="980" y="50" width="630" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="kqP3VXR3p34NOf_3NFYB-10" value="BTP" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;part=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-9">
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-10" value="BTP | Global Account(LG CNS)" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;part=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-9">
           <mxGeometry width="37" height="19" relative="1" as="geometry">
             <mxPoint x="20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqP3VXR3p34NOf_3NFYB-11" value="Provider Subaccount" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#475E75;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;part=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=10;spacingTop=10;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-9">
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-11" value="Subaccount(PerfecTwin Production)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#475E75;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;part=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=10;spacingTop=10;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-9">
           <mxGeometry x="20" y="55" width="590" height="365" as="geometry" />
         </mxCell>
-        <mxCell id="kqP3VXR3p34NOf_3NFYB-12" value="dasd" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;part=1;align=left;verticalAlign=top;spacing=2;fontSize=20;fontStyle=1" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-9">
-          <mxGeometry x="40" y="110" width="550" height="290" as="geometry" />
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="630" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-19" value="BTP" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;part=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-18">
+          <mxGeometry width="37" height="19" relative="1" as="geometry">
+            <mxPoint x="20" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-20" value="Subscriber Subaccount(Customer A)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#475E75;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;part=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=10;spacingTop=10;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-18">
+          <mxGeometry x="20" y="55" width="590" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="930" y="700" width="630" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-23" value="BTP" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;part=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-22">
+          <mxGeometry width="37" height="19" relative="1" as="geometry">
+            <mxPoint x="20" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kqP3VXR3p34NOf_3NFYB-24" value="Subscriber Subaccount(Customer B)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#475E75;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;part=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=10;spacingTop=10;" vertex="1" parent="kqP3VXR3p34NOf_3NFYB-22">
+          <mxGeometry x="20" y="55" width="590" height="365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
