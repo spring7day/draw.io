@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.3">
+  <diagram name="페이지-1" id="Qc61AHmZww2ls5u0D3D-">
+    <mxGraphModel dx="2270" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7adfogHAKWOQei6Msahm-1" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" value="AWS Cloud" vertex="1">
+          <mxGeometry height="260" width="1050" x="130" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-5" parent="7adfogHAKWOQei6Msahm-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" value="VPC" vertex="1">
+          <mxGeometry height="190" width="190" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-2" parent="7adfogHAKWOQei6Msahm-5" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="107.5" width="129" x="30.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-3" parent="7adfogHAKWOQei6Msahm-5" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" value="S/4HANA" vertex="1">
+          <mxGeometry height="19" width="37" x="40.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-7" parent="7adfogHAKWOQei6Msahm-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" value="VPC" vertex="1">
+          <mxGeometry height="190" width="631.75" x="388.25" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-24" parent="7adfogHAKWOQei6Msahm-7" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" value="PerfecTwin Server #1" vertex="1">
+          <mxGeometry height="130" width="228.25" x="41.75" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-25" parent="7adfogHAKWOQei6Msahm-24" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mariadb;verticalAlign=bottom;" value="" vertex="1">
+          <mxGeometry height="38.4" width="51" x="144.5" y="41.560000000000024" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-28" parent="7adfogHAKWOQei6Msahm-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MariaDB" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="79.96000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-8" parent="7adfogHAKWOQei6Msahm-24" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="PerfecTwin App&lt;br&gt;(Web, Engine)" vertex="1">
+          <mxGeometry height="44.37" width="36.5" x="50" y="41.559999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-30" edge="1" parent="7adfogHAKWOQei6Msahm-24" source="7adfogHAKWOQei6Msahm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="7adfogHAKWOQei6Msahm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-31" parent="7adfogHAKWOQei6Msahm-7" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" value="PerfecTwin Server #2" vertex="1">
+          <mxGeometry height="130" width="228.25" x="301.75" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-32" parent="7adfogHAKWOQei6Msahm-31" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mariadb;verticalAlign=bottom;" value="" vertex="1">
+          <mxGeometry height="38.4" width="51" x="144.5" y="41.560000000000024" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-33" parent="7adfogHAKWOQei6Msahm-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MariaDB" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="79.96000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-34" parent="7adfogHAKWOQei6Msahm-31" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="PerfecTwin App&lt;br&gt;(Simulator, Analzyer)" vertex="1">
+          <mxGeometry height="44.37" width="36.5" x="50" y="41.559999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-35" edge="1" parent="7adfogHAKWOQei6Msahm-31" source="7adfogHAKWOQei6Msahm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="7adfogHAKWOQei6Msahm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-9" edge="1" parent="7adfogHAKWOQei6Msahm-1" source="7adfogHAKWOQei6Msahm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="7adfogHAKWOQei6Msahm-2" value="Port : 443&lt;br&gt;(Fiori Launchpad Port)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-42" edge="1" parent="7adfogHAKWOQei6Msahm-1" source="7adfogHAKWOQei6Msahm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7adfogHAKWOQei6Msahm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="758" y="20" />
+              <mxPoint x="135" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-44" connectable="0" parent="7adfogHAKWOQei6Msahm-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="테스트 대상 Interface 및 EAI 경유 여부에 따라 추후 방화벽 오픈 협의 필요" vertex="1">
+          <mxGeometry relative="1" x="0.0889" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-11" parent="1" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=bottom;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" value="Innotek Cloud Zone" vertex="1">
+          <mxGeometry height="270" width="1050" x="130" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-12" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" value="PerfecTwin User&lt;br&gt;(Web Browser)" vertex="1">
+          <mxGeometry height="28" width="28" x="511" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-21" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7adfogHAKWOQei6Msahm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-23" connectable="0" parent="7adfogHAKWOQei6Msahm-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Port : 443&lt;br&gt;(Fiori Launchpad Port)" vertex="1">
+          <mxGeometry relative="1" x="-0.3251" y="1" as="geometry">
+            <mxPoint x="56" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-13" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="500" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-14" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-19" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="7adfogHAKWOQei6Msahm-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="530" />
+              <mxPoint x="628" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-17" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="680" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-18" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" value="PerfecTwin User&lt;br&gt;(Web Browser)" vertex="1">
+          <mxGeometry height="28" width="28" x="691" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-15" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="7adfogHAKWOQei6Msahm-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="530" />
+              <mxPoint x="628" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-16" connectable="0" parent="7adfogHAKWOQei6Msahm-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Port: 80&lt;br&gt;(Web Application Port)" vertex="1">
+          <mxGeometry relative="1" x="-0.1659" y="-1" as="geometry">
+            <mxPoint x="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-20" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="7adfogHAKWOQei6Msahm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-38" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7adfogHAKWOQei6Msahm-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-40" connectable="0" parent="7adfogHAKWOQei6Msahm-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Port: 80(Web Application Port), ??" vertex="1">
+          <mxGeometry relative="1" x="-0.5598" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-36" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="890" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-37" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" value="PerfecTwin User&lt;br&gt;(PerfecTwin RuleManager)" vertex="1">
+          <mxGeometry height="28" width="28" x="901" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7adfogHAKWOQei6Msahm-41" edge="1" parent="1" source="7adfogHAKWOQei6Msahm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="7adfogHAKWOQei6Msahm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
